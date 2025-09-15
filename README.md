@@ -15,7 +15,7 @@ Uma configuração limpa e focada no Neovim, com apenas o essencial para um ambi
 
 -----
 
-### 📋 Pré-requisitos
+### Pré-requisitos
 
 Certifique-se de que `git`, `curl` e o `neovim` já estão instalados no seu sistema.
 
